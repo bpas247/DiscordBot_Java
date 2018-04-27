@@ -27,7 +27,7 @@ This repository utilizes [Gradle](https://gradle.org/) in order to automate the 
 
 ## Setup
 
-**Note** For a detailed description of how to set up your environment with Gradle (for beginners), please see [Setting Up Your Environment](https://github.com/UWB-ACM/DiscordBot_Java/SETTING-UP-YOUR-ENVIRONMENT.md).
+**Note** For a detailed description of how to set up your environment with Gradle (for beginners), please see [Setting Up Your Environment](SETTING-UP-YOUR-ENVIRONMENT.md).
 
 After cloning and forking the repository, run the following command within the local directory:
 
