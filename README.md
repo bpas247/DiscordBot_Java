@@ -2,7 +2,7 @@
 
 > A barebones Java-based Discord bot example written using [Discord4J](https://github.com/Discord4J/Discord4J).
 
-For a barbones python-based example, See also [CSSBot_Py](https://github.com/UWB-ACM/CSSBot_Py).
+For a barebones python-based example, See also [CSSBot_Py](https://github.com/UWB-ACM/CSSBot_Py).
 
 For a full example written in C#, See also [CSSBot](https://github.com/Chris-Johnston/CSSBot).
 
@@ -27,7 +27,7 @@ This repository utilizes [Gradle](https://gradle.org/) in order to automate the 
 
 ## Setup
 
-**Note** For a detailed description of how to set up your environment with Gradle (for beginners), please see [Setting Up Your Environment](https://github.com/UWB-ACM/DiscordBot_Java/wiki/Setting-Up-Your-Environment).
+**Note** For a detailed description of how to set up your environment with Gradle (for beginners), please see [Setting Up Your Environment](https://github.com/UWB-ACM/DiscordBot_Java/SETTING-UP-YOUR-ENVIRONMENT.md).
 
 After cloning and forking the repository, run the following command within the local directory:
 
