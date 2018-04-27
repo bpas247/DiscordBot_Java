@@ -1,6 +1,6 @@
 # Setting Up Your Environment
 
-**NOTE** This page assumes you have already read the [Prerequisites](https://github.com/UWB-ACM/DiscordBot_Java#prerequisites) section.
+**NOTE** This page assumes you have already read the [Prerequisites](README.md#prerequisites) section.
 
 ## Setting up Gradle
 
